@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Aarrayfile2 {
 
     public static void main(String[] args) {
-//usre input
+        //user input
         Scanner sc = new Scanner(System.in);
         //2d array
         int ar[][]= new int[3][3];
